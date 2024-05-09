@@ -12,7 +12,7 @@ This project aims to predict the survival of passengers aboard the Titanic using
 ## Installation
 Clone the repository and navigate to the directory:
 ```bash
-git clone https://github.com/yourusername/titanic-prediction.git
+git clone https://github.com/BulutTok/titanic-prediction.git
 cd titanic-prediction
 
 
